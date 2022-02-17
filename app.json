@@ -17,6 +17,7 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.hailson.junior.firetodoapp",
       "supportsTablet": true
     },
     "android": {
